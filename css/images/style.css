@@ -1,0 +1,43 @@
+.workGrid {
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+    flex-direction: row;
+}
+
+.card {
+    margin: auto;
+}
+
+.card img {
+    height: 18rem;
+    width: 18rem;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 48px;
+    font-size: 48px;
+}
+
+h2 {
+    font-style: italic;
+}
+
+.myProjects {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    margin-left: auto;
+}
+
+p {
+    margin-left: 1rem;
+    padding: 10px;
+}
+
+.footerBtn {
+    display: flex;
+    margin-left: 2rem;
+    padding: 10px;
+}
